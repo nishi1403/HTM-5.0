@@ -1,5 +1,7 @@
 body {
   background-image: linear-gradient(rgb(180, 196, 194), rgb(247, 253, 251));
+text-align:center;
+
 }
 .footer {
   background-image: linear-gradient(rgb(5, 11, 70), rgb(13, 54, 73));
