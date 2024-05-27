@@ -37,7 +37,9 @@ i {
 .Timer {
   font-size: 10vh;
   text-align: center;
-  width: 100%;
+justify-content:center;
+margin:auto;
+  width: 70vh;
 }
 .time-box {
   border: 1px solid white;
@@ -63,7 +65,9 @@ i {
   font-weight: 800;
 }
 .schedule {
-  width: 100%;
+  width: 80vh;
+justify-content:center;
+margin:auto;
   text-align: center;
 }
 .schedule h1 {
